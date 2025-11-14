@@ -1,0 +1,17 @@
+C:\Temp\.ispp21\VirusTotal2.0\VirusTotal2.0\bin\Debug\net8.0\VirusTotal2.0.exe
+C:\Temp\.ispp21\VirusTotal2.0\VirusTotal2.0\bin\Debug\net8.0\VirusTotal2.0.deps.json
+C:\Temp\.ispp21\VirusTotal2.0\VirusTotal2.0\bin\Debug\net8.0\VirusTotal2.0.runtimeconfig.json
+C:\Temp\.ispp21\VirusTotal2.0\VirusTotal2.0\bin\Debug\net8.0\VirusTotal2.0.dll
+C:\Temp\.ispp21\VirusTotal2.0\VirusTotal2.0\bin\Debug\net8.0\VirusTotal2.0.pdb
+C:\Temp\.ispp21\VirusTotal2.0\VirusTotal2.0\bin\Debug\net8.0\RestSharp.dll
+C:\Temp\.ispp21\VirusTotal2.0\VirusTotal2.0\obj\Debug\net8.0\VirusTotal2.0.csproj.AssemblyReference.cache
+C:\Temp\.ispp21\VirusTotal2.0\VirusTotal2.0\obj\Debug\net8.0\VirusTotal2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\.ispp21\VirusTotal2.0\VirusTotal2.0\obj\Debug\net8.0\VirusTotal2.0.AssemblyInfoInputs.cache
+C:\Temp\.ispp21\VirusTotal2.0\VirusTotal2.0\obj\Debug\net8.0\VirusTotal2.0.AssemblyInfo.cs
+C:\Temp\.ispp21\VirusTotal2.0\VirusTotal2.0\obj\Debug\net8.0\VirusTotal2.0.csproj.CoreCompileInputs.cache
+C:\Temp\.ispp21\VirusTotal2.0\VirusTotal2.0\obj\Debug\net8.0\VirusTot.7B1A4042.Up2Date
+C:\Temp\.ispp21\VirusTotal2.0\VirusTotal2.0\obj\Debug\net8.0\VirusTotal2.0.dll
+C:\Temp\.ispp21\VirusTotal2.0\VirusTotal2.0\obj\Debug\net8.0\refint\VirusTotal2.0.dll
+C:\Temp\.ispp21\VirusTotal2.0\VirusTotal2.0\obj\Debug\net8.0\VirusTotal2.0.pdb
+C:\Temp\.ispp21\VirusTotal2.0\VirusTotal2.0\obj\Debug\net8.0\VirusTotal2.0.genruntimeconfig.cache
+C:\Temp\.ispp21\VirusTotal2.0\VirusTotal2.0\obj\Debug\net8.0\ref\VirusTotal2.0.dll
